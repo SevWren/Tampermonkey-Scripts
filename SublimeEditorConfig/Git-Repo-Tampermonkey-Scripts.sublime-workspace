@@ -104,15 +104,59 @@
 		"selected_items":
 		[
 			[
+				"git:add",
+				"Git: Add All"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git:push",
+				"Git: Push Current Branch"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git:com",
+				"Git: Commit"
+			],
+			[
+				"git: ad",
+				"Git: Add All"
+			],
+			[
+				"git: add",
+				"Git: Add All"
+			],
+			[
+				"git: add all",
+				"Git: Add All"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"package control:u",
+				"Package Control: User CA bundle"
+			],
+			[
+				"git",
+				"Set Syntax: Git Config"
+			],
+			[
 				"Package Control: inst",
 				"Package Control: Install Package"
 			],
 			[
 				"Package Control: install",
-				"Package Control: Install Package"
-			],
-			[
-				"Package Control: instal",
 				"Package Control: Install Package"
 			],
 			[
@@ -134,10 +178,6 @@
 			[
 				"Package Control: diso",
 				"Package Control: Discover Packages"
-			],
-			[
-				"Package Control: list",
-				"Package Control: List Packages"
 			],
 			[
 				"Package Control: git",
@@ -172,9 +212,10 @@
 	},
 	"console":
 	{
-		"height": 438.0,
+		"height": 79.0,
 		"history":
 		[
+			"git config --global --add safe.directory G:/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Tampermonkey-Scripts",
 			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3b5198a7d6203cc0d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s expected %s)' % (dh, h)) if dh != h else open( os.path.join( ipp, pf), 'wb' ).write(by)",
 			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3b5198a7d6203cc0d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s expected %s)' % (dh, h)) if dh != h else open( os.path.join( ipp, pf), 'wb' ).write(by)\n",
 			"//copy",
@@ -199,10 +240,14 @@
 	},
 	"expanded_folders":
 	[
-		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Tampermonkey-Scripts"
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Tampermonkey-Scripts",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Tampermonkey-Scripts/SublimeEditorConfig"
 	],
 	"file_history":
 	[
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Tampermonkey-Scripts/README.md",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Tampermonkey-Scripts/Chatgpt Unofficial Notepad.meta.js",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Packages/User/Package Control.user-ca-bundle",
 		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Tampermonkey-Scripts/Git-Repo-Tampermonkey-Scripts.sublime-project",
 		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Chatgpt Unofficial Notepad.js",
 		"/G/login/2.txt",
@@ -327,10 +372,7 @@
 		"/C/scripts/windows U stop.bat",
 		"/C/scripts/Start Hyper-V.bat",
 		"/C/scripts/Get all services and their executable creation method 4.ps1",
-		"/C/scripts/Get all services and their executable creation method 3.ps1",
-		"/C/scripts/Get all services and their install dates Method 2.ps1",
-		"/C/scripts/Get all services and their install dates.ps1",
-		"/C/scripts/Check if PowerShell is running with administration.ps1"
+		"/C/scripts/Get all services and their executable creation method 3.ps1"
 	],
 	"find":
 	{
@@ -348,94 +390,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"px",
-			"    // ",
-			"/* 保存重要的原始函数，防止被外部脚本污染 */",
-			"/* 保存重要的原始函数，防止被外部脚本污染",
-			"netu",
-			"margin",
-			" in ",
-			"))",
-			"Released ",
-			"Icon image for ",
-			"Ovidiu Pop",
-			"Popcore Games",
-			"Habby",
-			"Icon image for ",
-			"i have",
-			"violet",
-			"geas",
-			"ghoul",
-			"online",
-			"titan",
-			"clover",
-			"hunter",
-			"metal",
-			"$*!",
-			"certain",
-			"fluffy",
-			"overlor",
-			"tany",
-			"Houseki",
-			"kono",
-			"spice",
-			"gate",
-			"hunter",
-			"viole",
-			"vinlan",
-			"abyss",
-			"made in",
-			"horizon",
-			"Konosuba",
-			"log",
-			"TV",
-			"/",
-			",",
-			">",
-			"isekai",
-			"tag",
-			"isek",
-			"tag",
-			"</my_comments>",
-			"</my_times_watched>",
-			"<series_animedb_id>",
-			"<my_rewatch_value></my_rewatch_value>\n\t\t\t\t\t<my_priority>LOW</my_priority>\n\t\t\t\t\t<my_tags><![CDATA[]]></my_tags>\n\t\t\t\t\t",
-			"my_rewatching_ep>",
-			"</my_status>",
-			"</my_storage_value>",
-			"</my_score>",
-			"</my_storage>",
-			"</my_rated>",
-			"<my_finish_date>",
-			"<my_start_date>",
-			"<my_watched_episodes>",
-			"\t\t\t\t\t<my_id>",
-			"\t\t\t\t\t<series_episodes>",
-			"7\n12\n",
-			"8\n12\n",
-			"9\n",
-			"9\n11\n",
-			"9\n12\n",
-			"lua",
-			"frame",
-			"close",
-			"open",
-			"\n\n",
-			"Erika: ",
-			"Erika",
-			":",
-			"zanarkand",
-			":80 (TCP)",
-			":443 (TCP)",
-			":443",
-			"start time: 0x01da61d6507dbf62\n",
-			"2024-02-16 12:43:36, Info                  ",
-			"2024-02-16 12:43:32, Info                  ",
-			"2024-02-16",
-			"clip",
-			"UserDataSvc",
-			"UnistoreSvc",
-			"color"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -443,13 +397,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"/* */",
-			"/*",
-			")",
-			"",
-			"\n",
-			"To Zanarkand",
-			""
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
@@ -459,6 +406,12 @@
 		"whole_word": false,
 		"wrap": false
 	},
+	"folders":
+	[
+		{
+			"path": "G:\\Users\\mmuel\\OneDrive\\Documents\\AutoIT\\Tampermonkey\\Tampermonkey-Scripts"
+		}
+	],
 	"groups":
 	[
 		{
@@ -506,12 +459,16 @@
 	{
 		"height": 0.0
 	},
+	"output.git":
+	{
+		"height": 179.0
+	},
 	"output.unsaved_changes":
 	{
 		"height": 122.0
 	},
 	"pinned_build_system": "Packages/AutoHotkey/AutoHotkey.sublime-build",
-	"project": "Git-Repo-Tampermonkey-Scripts.sublime-project",
+	"project": "",
 	"replace":
 	{
 		"height": 60.0
@@ -556,7 +513,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 385.0,
+	"side_bar_width": 775.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
