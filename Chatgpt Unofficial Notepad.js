@@ -8,8 +8,8 @@
 // @match        https://chat.openai.com/*
 // @grant        none
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/466476/Chatgpt%20Unofficial%20Notepad.user.js
-// @updateURL https://update.greasyfork.org/scripts/466476/Chatgpt%20Unofficial%20Notepad.meta.js
+// @downloadURL https://raw.githubusercontent.com/SevWren/Tampermonkey-Scripts/main/Chatgpt%20Unofficial%20Notepad.js
+// @updateURL https://raw.githubusercontent.com/SevWren/Tampermonkey-Scripts/main/Chatgpt%20Unofficial%20Notepad.meta.js
 // ==/UserScript==
 
 (function() {
@@ -26,6 +26,8 @@
   newDiv.style.top = "20px";
   newDiv.style.right = "20px";
   newDiv.style.zIndex = "1000";
+  newDiv.style.width = "292px"; // Set initial width to 292px
+  newDiv.style.height = "312px"; // Set initial height to 312px
   newDiv.style.backgroundColor = "#333"; // Dark background
   newDiv.style.border = "1px solid white"; // White border
   newDiv.style.color = "white"; // White text
