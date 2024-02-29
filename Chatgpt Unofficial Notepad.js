@@ -1,16 +1,18 @@
 // ==UserScript==
 // @name         Chatgpt Unofficial Notepad
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/SevWren/Tampermonkey-Scripts/tree/main
 // @version      0.9
 // @description  Adds a small context window for note-taking on the openai.com website for usages with chatgpt.
 // @author       GUI Edits SevWren
-// @author       Lefty & Chatgpt3/4
-// @match        https://chat.openai.com/*
 // @grant        none
 // @license      MIT
 // @downloadURL https://raw.githubusercontent.com/SevWren/Tampermonkey-Scripts/main/Chatgpt%20Unofficial%20Notepad.js
-// @updateURL https://raw.githubusercontent.com/SevWren/Tampermonkey-Scripts/main/Chatgpt%20Unofficial%20Notepad.meta.js
-// ==/UserScript==
+// @updateURL   https://raw.githubusercontent.com/SevWren/Tampermonkey-Scripts/main/Chatgpt%20Unofficial%20Notepad.js
+// @connect             raw.githubusercontent.com
+// @homepageURL         https://github.com/SevWren/Tampermonkey-Scripts/tree/main
+// @supportURL          https://github.com/SevWren/Tampermonkey-Scripts/tree/main
+// @match        https://chat.openai.com/*
+
 
 (function() {
   'use strict';
