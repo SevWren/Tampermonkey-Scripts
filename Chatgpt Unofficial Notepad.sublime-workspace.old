@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"read",
+				" $read           Return a line from a disk file                                                      "
+			],
+			[
+				"nick",
+				" $nick           Get nick of associated event or retrieve Nth nick in a channel                      "
+			],
+			[
+				"gen",
+				"generate_sentences"
+			],
+			[
+				"generate",
+				"generate_sentences"
+			],
+			[
+				"per",
+				"personality3"
+			],
+			[
+				"pers",
+				"personality3"
+			],
+			[
+				"person",
+				"personality2"
+			],
+			[
+				"glo",
+				"glossary_name"
+			],
+			[
+				"projec",
+				"project_id"
+			],
+			[
+				"getk",
+				"GetKeyState"
+			],
+			[
+				"pixel",
+				"PixelGetColor"
+			],
+			[
+				"Exit",
+				"ExitApp"
+			],
+			[
+				"sleep",
+				"Sleep"
+			],
+			[
+				"%Mo",
+				"%MouseY%"
+			],
+			[
+				"cont",
+				"justify-content\tproperty"
+			],
+			[
+				"a",
+				"align-content\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: diso",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: git",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control:inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: disoc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: enable",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 438.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3b5198a7d6203cc0d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s expected %s)' % (dh, h)) if dh != h else open( os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3b5198a7d6203cc0d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s expected %s)' % (dh, h)) if dh != h else open( os.path.join( ipp, pf), 'wb' ).write(by)\n",
+			"//copy",
+			"copy",
+			"package list",
+			"package",
+			"local",
+			"define",
+			"help",
+			"selectall",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/login/2.txt",
+		"/G/login/To the family.txt",
+		"/G/login/Answers to Gabe when he's a little older - Copy (2).txt",
+		"/G/login/1.txt",
+		"/G/Users/mmuel/OneDrive/Documents/AI/chatgpt Analyze the song To To Zanarkand and what vibe it.txt",
+		"/G/Users/mmuel/OneDrive/Documents/AI/chatgpt define democracy.txt",
+		"/G/Users/mmuel/AppData/Roaming/mpv/mpv.conf",
+		"/G/Users/mmuel/OneDrive/Desktop/Nutritional Supplements that Support Healthy Thyroid Hormonoes.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Mike Mueller - A research Study Exploring the Feasibility of a Mobile Speech App with AI Hosting.txt",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Chatgpt Unofficial Notepad.meta.js",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Tampermonkey/Chatgpt Unofficial Notepad.js",
+		"/G/Users/mmuel/AppData/Local/Temp/7zO818E5469/characters.txt",
+		"/G/Program Files/Notepad++/plugins/NotepadStarterPlugin/NotepadStarter/readme.md",
+		"/G/Program Files (x86)/ASUS/New Folder/FamilyAffairWeek3-0.119Syd_free.-pc/love_patch.rpy",
+		"/G/Program Files (x86)/ASUS/New Folder/FamilyAffairWeek3-0.119Syd_free.-pc/log.txt",
+		"/G/Program Files (x86)/ASUS/New Folder/toa 20248.bat",
+		"/C/mpv/CloseConn.ps1",
+		"/C/mpv/ClosePorts.ps1",
+		"/C/mpv/AddFirewallRule.ps1",
+		"/G/Windows/Microsoft.NET/Framework/v4.0.30319/WPF/en-US/PresentationHost_v0400.dll.mui",
+		"/G/Windows/System32/Tasks/Dctooux",
+		"/G/ProgramData/Microsoft/Windows/WER/Temp/face915f-0273-4a37-b13f-b46082279e99",
+		"/G/Users/mmuel/AppData/Local/Google/Chrome/User Data/Profile 1/UnpackedExtensions/rule34plus1_V0.0.2_10980_526233285/manifest.json",
+		"/G/Users/mmuel/AppData/Local/Google/Chrome/User Data/Profile 1/UnpackedExtensions/rule34plus1_V0.0.2_10980_526233285/README.md",
+		"/G/Users/mmuel/AppData/Local/Google/Chrome/User Data/Profile 1/UnpackedExtensions/rule34plus1_V0.0.2_10980_526233285/background.js",
+		"/G/Users/mmuel/AppData/Local/Google/Chrome/User Data/Profile 1/UnpackedExtensions/rule34plus1_V0.0.2_10980_526233285/index.html",
+		"/G/Users/mmuel/OneDrive/Desktop/Microcenter.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Shows Anime ETC/ChatGPT.csv",
+		"/G/Users/mmuel/OneDrive/Documents/Shows Anime ETC/anyjson_download.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Shows Anime ETC/animelist_1708631045_-_1131285.xml",
+		"/G/Users/mmuel/OneDrive/Documents/Shows Anime ETC/kitsu--anime.xml",
+		"/G/Users/mmuel/OneDrive/Documents/Shows Anime ETC/gdpr_data.json",
+		"/G/Users/mmuel/OneDrive/Documents/Shows Anime ETC/animelist_1708631045_-_1131285 version edited rougly.xml",
+		"/G/Users/mmuel/OneDrive/Documents/Shows Anime ETC/2.xml",
+		"/G/mpv/game/DRG Survivor Test.CT",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Installed Packages/Cheat Engine CEA.sublime-syntax",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Installed Packages/Package Control/sublime-package.json",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Installed Packages/Package Control/plugin.py",
+		"/G/Users/mmuel/AppData/Local/Temp/7zE44054BCD/Cheat Engine CEA.sublime-syntax",
+		"/G/mpv/game/DRG Survivor - Copy.cea",
+		"/G/Users/mmuel/AppData/Local/Temp/7zE44054BCD/Comments.tmPreferences",
+		"/G/Users/mmuel/AppData/Local/Temp/7zE44054BCD/Context.sublime-menu",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Installed Packages/Package Control/readme.md",
+		"/G/Users/mmuel/AppData/Local/Temp/7zO4048AE56/readme.md",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Installed Packages/EditorConfig.sublime-package",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Installed Packages/Comments.tmPreferences",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Installed Packages/Context.sublime-menu",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Installed Packages/Package Control.sublime-package",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Packages/User/Cheat Engine CEA.sublime-package",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings.json",
+		"/G/Users/mmuel/AppData/Roaming/mpv/input.conf",
+		"/D/software/Chrome Extensions/hls-downloader extension-archive/dist/manifest.json",
+		"/G/Users/mmuel/AppData/LocalLow/Funday Games/DRG Survivor/Player.log",
+		"/G/login/ff7_entire_script.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Android App Mind Map.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/drive-download-20240219T194509Z-001/stuff to do.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/drive-download-20240219T194509Z-001/Shopping List.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/drive-download-20240219T194509Z-001/Series Sechedule.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/drive-download-20240219T194509Z-001/Official Tax Page.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/drive-download-20240219T194509Z-001/New Text Document.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/drive-download-20240219T194509Z-001/MOunEmployInfo.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/drive-download-20240219T194509Z-001/Laptop Model Info.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/drive-download-20240219T194509Z-001/Cable Modem Log Internet Outages.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/drive-download-20240219T194509Z-001/2022-03-14-1.log",
+		"/G/Users/mmuel/OneDrive/Documents/AI/Customize ChatGPT.txt",
+		"/G/Users/mmuel/OneDrive/Documents/trace_ips.bat",
+		"/G/OpenChat/openchat-ui/README.md",
+		"/G/Windows/Logs/CBS/CBS.log",
+		"/G/Users/mmuel/OneDrive/Desktop/Cars and Insurance Info.txt",
+		"/G/Users/mmuel/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/ForceStopUpdate.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/GetUpdateStatus.ps1",
+		"/G/Users/mmuel/OneDrive/Desktop/Free_Proxy_List.txt",
+		"/G/Users/mmuel/OneDrive/Desktop/proxy.pac",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/delete_task.bat",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Admin Accounts Info.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/GetUserInfo.log",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Get User Account Info.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/User_Info.txt",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/GetSecurityPermissions.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Check services CbsApi.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Work Permissions.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Check if User Exists.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Get User Details.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Get SID for a User.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Work Permissions.txt",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/Permissions_Report.txt",
+		"/G/Users/mmuel/OneDrive/Desktop/2014 Honda CR-V VinDecode.csv",
+		"/G/ProgramData/ASUS/New folder/Chihayafuru/x264_2pass.log",
+		"/G/Users/mmuel/OneDrive/Desktop/List of required processes and services.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/stoptouchservice.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/AutoIT/disable touch service.ps1",
+		"/G/Users/mmuel/OneDrive/Desktop/To the family 2.txt",
+		"/G/login/To the family 2.txt",
+		"/G/login/Carfax Concerns - GPT Prompt",
+		"/G/Users/mmuel/carfax-scraper/test.py",
+		"/G/login/1click.cmd",
+		"/G/Users/mmuel/OneDrive/Desktop/Car Dealership Request info.txt",
+		"/G/Users/mmuel/XDCC IRC/download.js",
+		"/D/software/cheat-engine-7.5/README.md",
+		"/G/Users/mmuel/XDCC IRC/download2.js",
+		"/G/Users/mmuel/XDCC IRC/test.js",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/Piano Teaching Methods.txt",
+		"/G/Users/mmuel/OneDrive/Documents/Piano Books/Alfred's/Alfred Piano Books.txt",
+		"/G/Users/mmuel/Archive.org-Downloader/Format.txt",
+		"/G/Users/mmuel/Archive.org-Downloader/James Bastien/archive.org.txt",
+		"/G/Users/mmuel/Archive.org-Downloader/Piano Teaching Methods.txt",
+		"/G/Users/mmuel/Archive.org-Downloader/README.md",
+		"/D/software/Android/platform-tools_r34.0.5-windows/platform-tools/Scripts/close.sh",
+		"/G/Users/mmuel/AppData/Local/npm-cache/_logs/2024-01-16T01_38_07_760Z-debug-0.log",
+		"/D/software/renpy-public-0.9.087-android/CustomScript.sh",
+		"/D/software/renpy-public-0.9.087-android/AndroidManifest.xml",
+		"/C/mpv/log.txt",
+		"/G/Windows/System32/GroupPolicy/Machine/comment.cmtx",
+		"/G/Windows/System32/GroupPolicy/Machine/Registry.pol",
+		"/C/mpv/Mirc/x264_2pass.log",
+		"/C/mpv/mirc/berserk/berserk.m3u",
+		"/C/mpv/Mirc/berserk/playlist.mru",
+		"/C/mpv/Mirc/berserk/berserk v1 .m3u",
+		"/C/mpv/Mirc/berserk/playlist.txt",
+		"/C/scripts/windows U stop.bat",
+		"/C/scripts/Start Hyper-V.bat",
+		"/C/scripts/Get all services and their executable creation method 4.ps1",
+		"/C/scripts/Get all services and their executable creation method 3.ps1",
+		"/C/scripts/Get all services and their install dates Method 2.ps1",
+		"/C/scripts/Get all services and their install dates.ps1",
+		"/C/scripts/Check if PowerShell is running with administration.ps1",
+		"/G/Users/mmuel/OneDrive/Documents/Extenseion Backup - UnwantedTwitch_Blacklist 2.json"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 340.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"px",
+			"    // ",
+			"/* 保存重要的原始函数，防止被外部脚本污染 */",
+			"/* 保存重要的原始函数，防止被外部脚本污染",
+			"netu",
+			"margin",
+			" in ",
+			"))",
+			"Released ",
+			"Icon image for ",
+			"Ovidiu Pop",
+			"Popcore Games",
+			"Habby",
+			"Icon image for ",
+			"i have",
+			"violet",
+			"geas",
+			"ghoul",
+			"online",
+			"titan",
+			"clover",
+			"hunter",
+			"metal",
+			"$*!",
+			"certain",
+			"fluffy",
+			"overlor",
+			"tany",
+			"Houseki",
+			"kono",
+			"spice",
+			"gate",
+			"hunter",
+			"viole",
+			"vinlan",
+			"abyss",
+			"made in",
+			"horizon",
+			"Konosuba",
+			"log",
+			"TV",
+			"/",
+			",",
+			">",
+			"isekai",
+			"tag",
+			"isek",
+			"tag",
+			"</my_comments>",
+			"</my_times_watched>",
+			"<series_animedb_id>",
+			"<my_rewatch_value></my_rewatch_value>\n\t\t\t\t\t<my_priority>LOW</my_priority>\n\t\t\t\t\t<my_tags><![CDATA[]]></my_tags>\n\t\t\t\t\t",
+			"my_rewatching_ep>",
+			"</my_status>",
+			"</my_storage_value>",
+			"</my_score>",
+			"</my_storage>",
+			"</my_rated>",
+			"<my_finish_date>",
+			"<my_start_date>",
+			"<my_watched_episodes>",
+			"\t\t\t\t\t<my_id>",
+			"\t\t\t\t\t<series_episodes>",
+			"7\n12\n",
+			"8\n12\n",
+			"9\n",
+			"9\n11\n",
+			"9\n12\n",
+			"lua",
+			"frame",
+			"close",
+			"open",
+			"\n\n",
+			"Erika: ",
+			"Erika",
+			":",
+			"zanarkand",
+			":80 (TCP)",
+			":443 (TCP)",
+			":443",
+			"start time: 0x01da61d6507dbf62\n",
+			"2024-02-16 12:43:36, Info                  ",
+			"2024-02-16 12:43:32, Info                  ",
+			"2024-02-16",
+			"clip",
+			"UserDataSvc",
+			"UnistoreSvc",
+			"color"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/* */",
+			"/*",
+			")",
+			"",
+			"\n",
+			"To Zanarkand",
+			""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 116.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/AutoHotkey/AutoHotkey.sublime-build",
+	"project": "Chatgpt Unofficial Notepad.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Mike\\AppData\\Roaming\\mIRC\\Sublime waifu  Proejct.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
